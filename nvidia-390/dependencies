@@ -1,0 +1,19 @@
+ nvidia-driver-390 (metapackage) 
+  Depends: libnvidia-gl-390
+  Depends: nvidia-dkms-390
+  Depends: nvidia-dkms-390
+  Depends: nvidia-kernel-common-390
+  Depends: nvidia-kernel-common-390
+  Depends: nvidia-kernel-source-390
+  Depends: libnvidia-compute-390
+  Depends: nvidia-compute-utils-390
+  Depends: libnvidia-decode-390
+  Depends: libnvidia-encode-390
+  Depends: nvidia-utils-390
+  Depends: xserver-xorg-video-nvidia-390
+  Depends: libnvidia-cfg1-390
+  Depends: libnvidia-ifr1-390
+  Depends: libnvidia-fbc1-390
+
+nvidia-driver-390 nvidia-dkms-390 nvidia-kernel-common-390 libnvidia-compute-390 nvidia-compute-utils-390 libnvidia-decode-390 libnvidia-encode-390 nvidia-utils-390 xserver-xorg-video-nvidia-390  libnvidia-cfg1-390 libnvidia-ifr1-390 libnvidia-fbc1-390
+
