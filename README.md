@@ -5,6 +5,8 @@ NVIDIA:
 - 340
 - 390
 - 470?
+-   Missing a file because Github won't let me upload "large files"
+- 
 AMD
 - unsure
 INTEL
